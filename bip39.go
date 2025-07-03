@@ -14,7 +14,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/alexvec/go-bip39/wordlists"
+	"gitlab.bixin.com/benfen/go-bip39/wordlists"
 	"golang.org/x/crypto/pbkdf2"
 )
 

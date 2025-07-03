@@ -1,4 +1,4 @@
-module github.com/alexvec/go-bip39
+module gitlab.bixin.com/benfen/go-bip39
 
 go 1.14
 
